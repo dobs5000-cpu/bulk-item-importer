@@ -1,0 +1,17 @@
+{
+  "id": "com.yourdomain.bulk-item-importer",
+  "name": "Bulk Item Importer",
+  "version": "1.0.0",
+  "icon": "/icon.svg",
+  "description": "Search your image library and bulk-insert items into the scene.",
+  "author": "You",
+  "action": {
+    "title": "Bulk Item Importer",
+    "icon": "/icon.svg",
+    "popover": {
+      "url": "/index.html",
+      "height": 600,
+      "width": 380
+    }
+  }
+}

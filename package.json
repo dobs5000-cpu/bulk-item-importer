@@ -1,0 +1,16 @@
+{
+  "name": "bulk-item-importer",
+  "version": "1.0.0",
+  "description": "Bulk item importer extension for Owlbear Rodeo",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@owlbear-rodeo/sdk": "^1.11.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

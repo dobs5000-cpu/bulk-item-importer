@@ -9,7 +9,7 @@
     "title": "Bulk Item Importer",
     "icon": "/icon.svg",
     "popover": {
-      "url": "/index.html",
+      "url": "blukitemimporter.netlify.app",
       "height": 600,
       "width": 380
     }
